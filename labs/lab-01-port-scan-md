@@ -11,6 +11,8 @@ Port scanning is a technique used to discover open ports and running services on
 - Helps identify vulnerable services
 - Commonly performed using tools like Nmap
 
-## My reflection
-This lab helped me realize that even simple information gathering can expose serious security risks.  
-It changed how I think about system exposure on the internet.
+## Personal Reflection
+
+This lab helped me realize that attackers do not need complex exploits to identify potential weaknesses. Simple information gathering, such as port scanning, already reveals valuable insights about a system.
+
+It changed my perspective on system exposure and made me more cautious about how services are configured and exposed to the internet.
