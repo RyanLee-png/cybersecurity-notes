@@ -48,3 +48,8 @@ Understanding the OSI model helps identify where attacks occur:
 Before learning the OSI model, networking felt confusing to me.  
 After studying it, I realized that most cyber attacks target specific layers, not the entire system.  
 This model helps me think like both a defender and an attacker.
+
+## Personal notes
+Before learning the OSI model, networking felt confusing to me.  
+After studying it, I realized that most cyber attacks target specific layers, not the entire system.  
+This model helps me think like both a defender and an attacker.
