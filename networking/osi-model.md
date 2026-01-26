@@ -26,3 +26,5 @@ Before studying the OSI model, I saw networking as a collection of isolated conc
 Learning the OSI model changed my mindset. I began to analyze security problems layer by layer instead of blaming the entire system. For example, I now understand why attacks like IP spoofing occur at the network layer, while SQL injection belongs to the application layer.
 
 This structured way of thinking helped me develop a defender’s perspective and is one of the first moments where I started thinking like a cybersecurity student rather than just a learner.
+
+## Current limitations
