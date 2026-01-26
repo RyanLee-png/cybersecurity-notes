@@ -19,8 +19,10 @@ Understanding the OSI model helps identify where attacks occur:
 - Transport layer: SYN flood attacks
 - Application layer: SQL injection, XSS
 - 
-## Personal notes
-Before learning the OSI model, networking felt confusing to me.  
-After studying it, I realized that most cyber attacks target specific layers, not the entire system.  
-This model helps me think like both a defender and an attacker.
-.
+## Personal Reflection
+
+Before studying the OSI model, I saw networking as a collection of isolated concepts and memorized protocols without understanding their relationships.
+
+Learning the OSI model changed my mindset. I began to analyze security problems layer by layer instead of blaming the entire system. For example, I now understand why attacks like IP spoofing occur at the network layer, while SQL injection belongs to the application layer.
+
+This structured way of thinking helped me develop a defender’s perspective and is one of the first moments where I started thinking like a cybersecurity student rather than just a learner.
