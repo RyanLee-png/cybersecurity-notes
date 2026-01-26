@@ -16,3 +16,8 @@ Understanding Linux is essential for penetration testing, system hardening, and 
 At first, using the terminal felt uncomfortable compared to a graphical interface.  
 However, I learned that mastering basic Linux commands gives much more control and flexibility.  
 This motivated me to practice Linux daily as a cybersecurity stude
+
+## Reflection
+Learning Linux changed how I interact with computers.  
+Instead of relying on graphical tools, I now understand what happens behind the scenes.
+
