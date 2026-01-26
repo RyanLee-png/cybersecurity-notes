@@ -1,0 +1,16 @@
+# Lab 01 – Understanding Port Scanning
+
+## Goal
+Understand what port scanning is and why attackers use it.
+
+## Theory
+Port scanning is a technique used to discover open ports and running services on a system.
+
+## Security relevance
+- Used in the reconnaissance phase of attacks
+- Helps identify vulnerable services
+- Commonly performed using tools like Nmap
+
+## My reflection
+This lab helped me realize that even simple information gathering can expose serious security risks.  
+It changed how I think about system exposure on the internet.
