@@ -16,5 +16,9 @@ a Bachelor's degree in Cybersecurity (English-taught programs in Europe).
 - Demonstrate self-study discipline and consistency
 - Support my university application portfolio
 
+## Learning philosophy
+I focus on building strong fundamentals and documenting my thinking process.  
+This repository reflects my consistency, self-discipline, and long-term goal of studying cybersecurity in Europe
+
 ## Author
 Ryan (Vietnam)
