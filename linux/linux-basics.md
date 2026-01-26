@@ -25,3 +25,6 @@ Over time, I realized that the terminal provides transparency and control, which
 
 This experience motivated me to practice Linux daily, as I see it as a core skill for penetration testing and system hardening.
 
+## Current limitations
+I am still at an early stage and plan to strengthen my understanding through more hands-on practice
+
