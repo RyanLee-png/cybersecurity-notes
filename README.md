@@ -1,42 +1,29 @@
 # Cybersecurity Notes
--This repository is not intended to demonstrate advanced hacking skills
--Instead, it documents my learning process, technical thinking, and foundations
--in cybersecurity, which I believe are essential for long-term growth in the field
--This repository documents my self-study journey in cybersecurity as a Vietnamese high school student aiming to pursue a Bachelor's degree in Cybersecurity in Europe.
 
-## Topics Covered
-- Networking fundamentals
-- Linux basics
-- Cybersecurity concepts
-- Ethical hacking fundamentals
-- Web security basics
+This repository documents my self-study journey in cybersecurity.
+Rather than focusing on advanced hacking techniques, I focus on
+understanding systems, security principles, and my own learning process.
 
-## Purpose
-- Build strong foundations in cybersecurity
-- Demonstrate self-study discipline and consistency
-- Support my university application portfolio
+I am a Vietnamese high school student (Class of 2027) aiming to pursue
+a Bachelor's degree in Cybersecurity in Europe.
 
-## Learning philosophy
-I focus on building strong fundamentals and documenting my thinking process.  
-This repository reflects my consistency, self-discipline, and long-term goal of studying cybersecurity in Europe
+## How I Learn
+- Focus on understanding *why* systems work, not just *how*
+- Write reflections after each topic to identify gaps in knowledge
+- Build small labs to test concepts
+- Review mistakes and misconceptions regularly
 
-## Personal Motivation
+## Repository Structure
+- `networking/` – Networking fundamentals and protocols
+- `linux/` – Linux basics, permissions, and system concepts
+- `labs/` – Small practical labs to apply theoretical knowledge
+- `reflections/` – Personal reflections on challenges and learning strategies
 
-I started learning cybersecurity not only because of its technical challenges, but also because it combines logic, problem-solving, and real-world impact.
+## Current Focus
+- Networking models (OSI, TCP/IP)
+- Linux permissions and security basics
+- Password security and common weaknesses
 
-As a Vietnamese high school student aiming to study cybersecurity in Europe, this repository represents my commitment to long-term self-study, discipline, and independent thinking. Each note and lab reflects how my understanding has evolved over time.
-
-## Why Cybersecurity at TalTech
-
-I am particularly interested in studying cybersecurity at TalTech because of its
-strong focus on technical fundamentals, practical learning, and its reputation in
-applied engineering education.
-
-I value the emphasis on understanding systems deeply rather than using tools
-superficially, which aligns with my learning approach.
-
-## Future Direction
-In the next stage, I plan to deepen my knowledge in web security, cryptography fundamentals, and incident response, and to apply these concepts through small practical labs.
-
-## Author
-Ryan (Vietnam)
+## Disclaimer
+This repository is for educational purposes only and does not contain
+malicious tools or techniques.
