@@ -1,14 +1,14 @@
-# Lab 02 – Password Security Basics
+# Lab 02 – Password Security
 
-## Goal
-Understand why weak passwords are dangerous and how attackers exploit them.
+## Objective
+Understand why weak passwords are dangerous.
 
-## Theory
-Passwords are often the weakest link in system security. Attacks like brute force and credential stuffing rely on poor password practices.
+## Method
+- Studied common password attack methods
+- Compared weak vs strong passwords
 
-## Security relevance
-- Weak passwords enable unauthorized access
-- Reused passwords increase attack surface
+## Result
+I learned that password strength depends on length and randomness, not complexity alone.
 
-## Personal Reflection
-This lab helped me realize that security failures often come from human behavior rather than complex vulnerabilities.
+## Reflection
+This lab showed me how small mistakes can lead to serious security risks.
