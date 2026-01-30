@@ -1,11 +1,15 @@
-# Learning Roadmap
+# Learning Roadmap – Cybersecurity
 
-## Short-term
-- Strengthen networking fundamentals
-- Practice Linux daily
-- Complete basic security labs
+## Current Focus
+- Networking fundamentals
+- Linux operating system basics
+- Cybersecurity principles
 
-## Long-term
-- Study cyber security at a European university
-- Specialize in defensive security
-- Contribute to open-source security projects
+## Learning Method
+- Study theory
+- Write summaries in my own words
+- Apply knowledge through small labs
+- Reflect weekly on progress and difficulties
+
+## Long-term Goal
+My goal is to pursue a Bachelor's degree in Cybersecurity at TalTech and develop strong foundations in secure syste
