@@ -1,14 +1,40 @@
-# Lab 02 – Password Security
+# Lab 02 – Password Security Basics
 
 ## Objective
-Understand why weak passwords are dangerous.
+This lab aims to explore common password weaknesses and understand
+why poor password practices remain one of the most common security risks.
 
-## Method
-- Studied common password attack methods
-- Compared weak vs strong passwords
+## Topics Covered
+- Weak vs strong passwords
+- Password reuse
+- Brute-force and dictionary attacks
+- Basic password protection principles
 
-## Result
-I learned that password strength depends on length and randomness, not complexity alone.
+## Analysis
+- Short and predictable passwords are vulnerable to automated attacks.
+- Reusing the same password across multiple services increases overall risk.
+- Human behavior is often the weakest link in authentication systems.
 
-## Reflection
-This lab showed me how small mistakes can lead to serious security risks.
+## What I Learned
+- Strong passwords alone are not enough without proper system enforcement.
+- Attackers rely more on automation than technical complexity.
+- Password security is both a technical and a human problem.
+
+## Why This Matters in Cybersecurity
+Many security incidents are not caused by advanced exploits, but by
+poor password practices. Understanding this helps focus security efforts
+on prevention rather than reaction.
+
+## Best Practices Identified
+- Use long and unique passwords.
+- Prefer password managers over memorization.
+- Combine passwords with multi-factor authentication (MFA).
+
+## Limitations
+- No real attack simulation was performed.
+- Focused on conceptual understanding rather than tool-based testing.
+
+## Future Improvements
+- Test password strength using controlled tools.
+- Compare password policies across different systems.
+- Study how authentication systems enforce security rules.
