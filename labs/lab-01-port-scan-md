@@ -1,18 +1,41 @@
-# Lab 01 – Understanding Port Scanning
+# Lab 01 – Basic Port Scanning
 
-## Goal
-Understand what port scanning is and why attackers use it.
+## Objective
+The objective of this lab is to understand how port scanning is used
+to identify exposed services and why it is a critical step in the
+early phase of cybersecurity attacks.
 
-## Theory
-Port scanning is a technique used to discover open ports and running services on a system.
+## Environment
+- Operating System: Linux
+- Tool: nmap
+- Target: Controlled test environment (local / lab setup)
 
-## Security relevance
-- Used in the reconnaissance phase of attacks
-- Helps identify vulnerable services
-- Commonly performed using tools like Nmap
+## Methodology
+1. Identified the target IP address in a safe testing environment.
+2. Performed a basic TCP port scan using nmap.
+3. Observed open ports and mapped them to corresponding services.
+4. Analyzed potential security risks associated with exposed services.
 
-## Personal Reflection
+## Observations
+- Common ports such as SSH (22) and HTTP (80) were detected.
+- Open ports indicate running services that may become attack vectors
+  if misconfigured or outdated.
 
-This lab helped me realize that attackers do not need complex exploits to identify potential weaknesses. Simple information gathering, such as port scanning, already reveals valuable insights about a system.
+## What I Learned
+- Port scanning is often the first step attackers take to gather information.
+- Exposed services significantly increase the system’s attack surface.
+- Understanding *why* a port is open is more important than detecting it.
 
-It changed my perspective on system exposure and made me more cautious about how services are configured and exposed to the internet.
+## Why This Matters in Cybersecurity
+This lab shows that many real-world attacks begin with simple reconnaissance.
+By identifying unnecessary open ports early, system administrators can
+reduce potential vulnerabilities before an attack occurs.
+
+## Limitations
+- The scan was limited to TCP ports.
+- No firewall or intrusion detection system was tested in this lab.
+
+## Future Improvements
+- Perform UDP scans and compare the results.
+- Analyze how firewall rules affect scan visibility.
+- Automate basic scanning tasks using a Python script.
